@@ -18,7 +18,7 @@ public class ChessPiece : MonoBehaviour
         startGridPosition = new Vector2Int(1, 1); //posiciones impares (1-3-5-7)
         gridPosition = startGridPosition;
 
-         //crear lista vacia + array de posiciones
+        //crear lista vacia + array de posiciones
     }
 
     public void Setup(LevelGrid levelGrid)

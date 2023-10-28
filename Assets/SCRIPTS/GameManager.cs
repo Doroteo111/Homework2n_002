@@ -16,7 +16,7 @@ public class GameManager : MonoBehaviour
         chessPiece = chessPieceGameObject.AddComponent<ChessPiece>();
 
         // Configurar el LevelGrid
-        levelGrid = new LevelGrid(7,7);   
+        //levelGrid = new LevelGrid(7,7);   
 
     }
 
