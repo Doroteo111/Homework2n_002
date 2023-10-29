@@ -152,6 +152,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d42dd934fbb74bc42bc4f9a25c605560, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  boardIsFull: 0
+  positionsInScene: []
 --- !u!4 &359212314
 Transform:
   m_ObjectHideFlags: 0

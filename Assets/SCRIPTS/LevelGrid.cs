@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LevelGrid : MonoBehaviour
 {
-    private Vector2Int pieceGridPosition;
+   /* private Vector2Int pieceGridPosition;
     private GameObject pieceGameObject;
 
     private int width;
@@ -16,5 +16,5 @@ public class LevelGrid : MonoBehaviour
     {
         this.chessPiece = chessPiece;
         
-    }
+    }*/
 }

@@ -15,14 +15,14 @@ public class ChessPiece : MonoBehaviour
     private LevelGrid levelGrid;
     private void Awake()
     {
-        startGridPosition = new Vector2Int(1, 1); //posiciones impares (1-3-5-7)
-        gridPosition = startGridPosition;
+        /*startGridPosition = new Vector2Int(1, 1); //posiciones impares (1-3-5-7)
+        gridPosition = startGridPosition;*/
 
         //crear lista vacia + array de posiciones
     }
 
-    public void Setup(LevelGrid levelGrid)
+    /*public void Setup(LevelGrid levelGrid)
     {
         this.levelGrid = levelGrid;
-    }
+    }*/
 }
